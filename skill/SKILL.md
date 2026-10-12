@@ -51,9 +51,10 @@ Hands cooking, wooden tables, herbs, bread, Balkan ceramics, colorful fridges, M
 
 ## 7. Platforms and handles
 - Website: chefanto.com (main hub). Portfolio: chef-antoai.netlify.app
-- Instagram / Facebook: @antoanelaalexander
+- Instagram: @antoanelalexander (main, one "a" in the middle)
+- Facebook: antoanela.alexander
 - LinkedIn: Antoanela Alexander
-- YouTube: @livewithchefanto (confirm handle)
+- YouTube: @chefantoai (channel "Chef Anto AI")
 - GitHub: chefanto80-design
 - Email list: MailerLite "Website Signups"; lead magnet "5 Meals From What's Already In Your Fridge"
 
